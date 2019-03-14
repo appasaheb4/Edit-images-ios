@@ -1,0 +1,16 @@
+PODS:
+  - iOSPhotoEditor (0.5)
+
+DEPENDENCIES:
+  - iOSPhotoEditor
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - iOSPhotoEditor
+
+SPEC CHECKSUMS:
+  iOSPhotoEditor: 0ddc84bcef9fe73fe8cc45ac999b89e0aa207aea
+
+PODFILE CHECKSUM: aa2846cf0c6eaff66dbdbc8f0b8736702841eaaa
+
+COCOAPODS: 1.5.3
